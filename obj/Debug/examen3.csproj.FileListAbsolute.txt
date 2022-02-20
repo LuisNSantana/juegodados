@@ -1,0 +1,5 @@
+/Users/luisnayib/Projects/examen3/examen3/bin/Debug/examen3.exe
+/Users/luisnayib/Projects/examen3/examen3/bin/Debug/examen3.pdb
+/Users/luisnayib/Projects/examen3/examen3/obj/Debug/examen3.csprojAssemblyReference.cache
+/Users/luisnayib/Projects/examen3/examen3/obj/Debug/examen3.exe
+/Users/luisnayib/Projects/examen3/examen3/obj/Debug/examen3.pdb
